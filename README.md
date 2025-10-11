@@ -16,14 +16,24 @@ El objetivo de la pre-entrega de este proyecto esaplicar todos los conocimientos
 
 ***
 
-## Tecnologías usadas
+## Tecnologías utilizadas
 
 <p align="left">
-<!–– Android Studio#––>
-<a href="https://developer.android.com/studio" target="_blank" data-bs-toggle="tooltip" title="Android Studio">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-</a>
- </p>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" data-bs-toggle="tooltip" title="Python">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev/" target="_blank" data-bs-toggle="tooltip" title="Selenium">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  </a>
+
+  <!-- Pytest -->
+  <a href="https://docs.pytest.org/en/stable/" target="_blank" data-bs-toggle="tooltip" title="Pytest">
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  </a>
+</p>
 
  ***
 
