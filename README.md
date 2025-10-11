@@ -3,13 +3,16 @@
 
 ## Tabla de contenidos:
 
-1. **[Requisitos](#Requisitos)**
-1. **[Tecnologías usadas](#tecnologías-usadas)**
-1. **[¿Cómo instalar el proyecto?](#cómo-instalar-el-proyecto)**
+1. **[Propósito del Proyecto](#Requisitos)**
+1. **[Tecnologías utilizadas](#tecnologías-usadas)**
+1. **[Instrucciones de instalación de dependencias](#cómo-instalar-el-proyecto)**
 
-## **Requisitos** <br/>
+Comando para ejecutar las pruebas (por ejemplo: pytest -v --html=reporte.html)
 
-📌 Puntos importantes
+
+## **Propósito del Proyecto** <br/>
+
+El objetivo de la pre-entrega de este proyecto esaplicar todos los conocimientos adquiridos hasta la Clase 8 del curso, demostrando la capacidad para automatizar flujos básicos de navegación web utilizando Selenium WebDriver y Python. Este proyecto permitirá poner en práctica lo aprendido sobre interacción con elementos web, estrategias de localización y validación de estados en una página. El sitio objetivo para esta automatización será saucedemo.com, una aplicación web demo especialmente diseñada para prácticas de testing.
 
 ***
 
