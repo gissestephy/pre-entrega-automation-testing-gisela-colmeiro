@@ -7,8 +7,7 @@
 1. **[Tecnologías utilizadas](#tecnologías-usadas)**
 1. **[Instrucciones de instalación de dependencias](#cómo-instalar-el-proyecto)**
 1. **[Comando para ejecutar las pruebas](#comando-para-ejecutar-las-pruebas)**
-1. **[Capturas de los reportes](#Reportes-Generados)**
-2. **[Automatización Login](#Automatizacion-Login)**
+1. **[Reportes Generados](#Reportes-Generados)**
 
 
 ## **Propósito del Proyecto** <br/>
