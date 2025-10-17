@@ -6,8 +6,7 @@
 1. **[Propósito del Proyecto](#Requisitos)**
 1. **[Tecnologías utilizadas](#tecnologías-usadas)**
 1. **[Instrucciones de instalación de dependencias](#cómo-instalar-el-proyecto)**
-
-Comando para ejecutar las pruebas (por ejemplo: pytest -v --html=reporte.html)
+1. **[Comando para ejecutar las pruebas]("comando-para-ejecutar-las-pruebas)**
 
 
 ## **Propósito del Proyecto** <br/>
@@ -45,3 +44,13 @@ El objetivo de la pre-entrega de este proyecto esaplicar todos los conocimientos
 ````
 git clone https://github.com/gissestephy/pre-entrega-automation-testing-gisela-colmeiro.git
 ````
+
+## Comando para ejecutar las pruebas
+
+### Desde la terminal:
+
+- Escribir lo siguiente:
+````
+pytest -v --html=reporte.html
+````
+
